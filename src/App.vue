@@ -47,9 +47,10 @@ const skillGroups = [
   {title:'Langues',items:['Français — courant','Anglais — intermédiaire','Allemand — intermédiaire']}
 ]
 const experiences = [
+  {period:'2026',company:'BIN LENOIR',role:'Développement des sites e-commerce de BIN LENOIR et NOZAM.',stack:'Vue.js, HTML5, CSS3, JS, React.js.'},
   {period:'2019 — 2026',company:'H&DEV',role:'Gestion de projet et développement d’applications web et mobiles.',stack:'HTML, CSS, JS, PHP, MySQL, jQuery, Bootstrap, WordPress, Laravel.'},
   {period:'2022 — 2023',company:'BIN LENOIR',role:'Conception et développement de la plateforme e-commerce et du dashboard client.',stack:'HTML, CSS, JS, PHP, MySQL, jQuery, Bootstrap, WordPress.'},
-  {period:'2021 — 2022',company:'SNEM',role:'Stagiaire : conception et réalisation d’un site vitrine.',stack:'HTML, CSS, JS, PHP, MySQL, jQuery, Bootstrap.'}
+  {period:'2021',company:'SNEM',role:'Stagiaire : conception et réalisation d’un site vitrine.',stack:'HTML, CSS, JS, PHP, MySQL, jQuery, Bootstrap.'}
 ]
 const education = [
   {period:'2024 — 2026',title:'Formation en langue Allemande',place:'German Center, Cocody Angré les Oscars'},
